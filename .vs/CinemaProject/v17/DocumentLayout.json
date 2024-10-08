@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22019C19-9A17-49EF-89E7-98515449EAEE}|CinemaProject\\CinemaProject.csproj|c:\\users\\ahmad\\source\\repos\\cinemaproject\\cinemaproject\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22019C19-9A17-49EF-89E7-98515449EAEE}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22019C19-9A17-49EF-89E7-98515449EAEE}|CinemaProject\\CinemaProject.csproj|c:\\users\\ahmad\\source\\repos\\cinemaproject\\cinemaproject\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22019C19-9A17-49EF-89E7-98515449EAEE}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\moviedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22019C19-9A17-49EF-89E7-98515449EAEE}|CinemaProject\\CinemaProject.csproj|C:\\Users\\ahmad\\source\\repos\\CinemaProject\\cinemaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22019C19-9A17-49EF-89E7-98515449EAEE}|CinemaProject\\CinemaProject.csproj|solutionrelative:cinemaproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\CinemaProject\\MovieDetails.cs",
+              "RelativeDocumentMoniker": "CinemaProject\\MovieDetails.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\CinemaProject\\MovieDetails.cs",
+              "RelativeToolTip": "CinemaProject\\MovieDetails.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwC0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:16:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovieDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\CinemaProject\\MovieDetails.cs",
+              "RelativeDocumentMoniker": "CinemaProject\\MovieDetails.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\CinemaProject\\MovieDetails.cs [Design]",
+              "RelativeToolTip": "CinemaProject\\MovieDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:16:37.948Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\CinemaProject\\Program.cs",
+              "RelativeDocumentMoniker": "CinemaProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmad\\source\\repos\\CinemaProject\\CinemaProject\\Program.cs",
+              "RelativeToolTip": "CinemaProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:09:19.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

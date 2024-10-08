@@ -1,0 +1,48 @@
+Die Hard#Action#A cop fights terrorists who take hostages in a skyscraper#2024/10/5 - 1:00#2024/10/5 - 2:00#2024/10/5 - 3:00#100#90#98#7.10000000596046
+Mad Max#Action#A post-apocalyptic chase through the desert#2024/10/5 - 4:00#2024/10/5 - 5:00#2024/10/5 - 6:00#9#0#100#7.7
+The Dark Knight#Action#Batman battles the Joker to save Gotham#2024/10/5 - 9:00#2024/10/5 - 8:00#2024/10/5 - 7:00#100#100#100#7.50000001192092
+John Wick#Action#A retired assassin seeks revenge for the death of his dog#2024/10/5 - 12:00#2024/10/5 - 11:00#2024/10/5 - 10:00#100#100#100#6
+Gladiator#Action#A Roman general-turned-gladiator seeks vengeance#2024/10/5 - 15:00#2024/10/5 - 14:00#2024/10/5 - 13:00#100#100#100#6.5
+The Matrix#Action#A hacker learns the truth about reality and leads a rebellion#2024/10/5 - 18:00#2024/10/5 - 17:00#2024/10/5 - 16:00#100#100#100#5.5
+Mission Impossible#Action#An agent must stop a global nuclear disaster#2024/10/5 - 21:00#2024/10/5 - 20:00#2024/10/5 - 19:00#100#100#100#5.1
+Indiana Jones#Adventure#An archaeologist races to recover the Ark of the Covenant before the Nazis do#2024/10/5 - 24:00#2024/10/5 - 23:00#2024/10/5 - 22:00#100#100#100#4.3
+The Lord of the Rings#Adventure#A group embarks on a journey to destroy a powerful ring#2024/10/10 - 3:00#2024/10/10 - 2:00#2024/10/10 - 1:00#100#100#100#4.4
+Pirates of the Caribbean#Adventure#A pirate seeks to reclaim his ship while battling a cursed crew#2024/10/10 - 6:00#2024/10/10 - 5:00#2024/10/10 - 4:00#100#100#100#4.8
+Jurassic Park#Adventure#Dinosaurs run amok in a theme park after a containment failure#2024/10/10 - 9:00#2024/10/10 - 8:00#2024/10/10 - 7:00#100#100#100#4.2
+Star Wars#Adventure#Rebels fight against a tyrannical empire in a galaxy far away#2024/10/10 - 12:00#2024/10/10 - 11:00#2024/10/10 - 10:00#100#100#100#4
+The Hobbit#Adventure#A hobbit joins a quest to reclaim a kingdom from a dragon#2024/10/10 - 15:00#2024/10/10 - 14:00#2024/10/10 - 13:00#100#100#100#3.2
+Avatar#Adventure#A soldier living in an alien body leads a rebellion against human invaders#2024/10/10 - 18:00#2024/10/10 - 17:00#2024/10/10 - 16:00#100#100#100#2.2
+King Kong#Adventure#A giant ape is discovered on a mysterious island and brought to civilization#2024/10/10 - 21:00#2024/10/10 - 20:00#2024/10/10 - 19:00#100#100#100#2.1
+Superbad#Comedy#Two teens attempt to throw a wild party before college#2024/10/10 - 24:00#2024/10/10 - 23:00#2024/10/10 - 22:00#100#100#100#2.9
+Hangover#Comedy#A group of friends wakes up from a chaotic night and tries to piece together what happened#2024/10/15 - 3:00#2024/10/15 - 2:00#2024/10/15 - 1:00#100#100#100#8.3
+Groundhog#Comedy#A man relives the same day repeatedly until he changes his ways#2024/10/15 - 6:00#2024/10/15 - 5:00#2024/10/15 - 4:00#100#100#100#9.3
+Anchorman#Comedy#An arrogant TV anchorman faces challenges from a rising competitor#2024/10/15 - 9:00#2024/10/15 - 8:00#2024/10/15 - 7:00#100#100#100#9.9
+Dumb and Dumber#Comedy#Two dim-witted friends embark on a hilarious road trip#2024/10/15 - 12:00#2024/10/15 - 11:00#2024/10/15 - 10:00#100#100#100#7.7
+Forrest Gump#Drama#A man with a simple outlook on life experiences extraordinary events#2024/10/15 - 15:00#2024/10/15 - 14:00#2024/10/15 - 13:00#100#100#100#7.2
+The Shawshank#Drama#A man wrongfully imprisoned forms a lasting friendship while plotting his escape#2024/10/15 - 18:00#2024/10/15 - 17:00#2024/10/15 - 16:00#100#100#100#7.1
+The Godfather#Drama#The rise and fall of a powerful mafia family#2024/10/15 - 21:00#2024/10/15 - 20:00#2024/10/15 - 19:00#100#100#100#5.1
+Fight Club#Drama#A disillusioned man forms a secret fight club that spirals out of control#2024/10/15 - 24:00#2024/10/15 - 23:00#2024/10/15 - 22:00#100#100#100#4.1
+Titanic#Drama#A romance unfolds aboard the ill-fated Titanic#2024/10/20 - 3:00#2024/10/20 - 2:00#2024/10/20 - 1:00#95#100#100#10
+The Exorcist#Horror#A priest battles to save a girl possessed by a demon#2024/10/20 - 3:00#2024/10/20 - 2:00#2024/10/20 - 1:00#100#100#100#10
+The Shining#Horror#A writer descends into madness while isolated in a haunted hotel#2024/10/20 - 6:00#2024/10/20 - 5:00#2024/10/20 - 4:00#100#100#100#1.6
+Hereditary#Horror#A family unravels dark secrets after their matriarch's death#2024/10/20 - 9:00#2024/10/20 - 8:00#2024/10/20 - 7:00#100#100#100#1.3
+Halloween#Horror#A masked killer stalks a babysitter on Halloween night#2024/10/20 - 12:00#2024/10/20 - 11:00#2024/10/20 - 10:00#100#100#100#3.5
+Get Out#Horror#A man uncovers disturbing truths during a visit to his girlfriend's family#2024/10/20 - 15:00#2024/10/20 - 14:00#2024/10/20 - 13:00#100#100#100#6.3
+Scream#Horror#A masked killer terrorizes a small town with a string of murders#2024/10/20 - 18:00#2024/10/20 - 17:00#2024/10/20 - 16:00#100#100#100#4.3
+Blade Runner#Sci-Fi#A blade runner unearths a long-buried secret that threatens society#2024/10/20 - 21:00#2024/10/20 - 20:00#2024/10/20 - 19:00#100#100#100#8.3
+Inception#Sci-Fi#A thief enters people’s dreams to plant an idea in their subconscious#2024/10/20 - 24:00#2024/10/20 - 23:00#2024/10/20 - 22:00#100#100#100#3.3
+Back to the Future#Sci-Fi#A teenager travels back in time to alter his parents' past#2024/10/25 - 3:00#2024/10/25 - 2:00#2024/10/25 - 1:00#100#100#100#0.3
+The Terminator#Sci-Fi#A cyborg is sent from the future to kill the mother of humanity’s savior#2024/10/25 - 6:00#2024/10/25 - 5:00#2024/10/25 - 4:00#100#100#100#1.3
+Arrival#Sci-Fi#A linguist attempts to communicate with aliens that have landed on Earth#2024/10/25 - 9:00#2024/10/25 - 8:00#2024/10/25 - 7:00#100#100#100#0.9
+Zodiac#Thriller#A reporter and detectives try to catch a serial killer who terrorized San Francisco in the 1970s#2024/10/25 - 12:00#2024/10/25 - 11:00#2024/10/25 - 10:00#100#100#100#9.5
+Up#Animation#An elderly man flies his house to South America with the help of a young boy#2024/10/25 - 15:00#2024/10/25 - 14:00#2024/10/25 - 13:00#100#100#100#6.6
+Coco#Animation#A young boy embarks on a journey in the Land of the Dead to discover his family’s secrets#2024/10/25 - 18:00#2024/10/25 - 17:00#2024/10/25 - 16:00#100#100#100#6.9
+Shrek#Animation#An ogre sets out to rescue a princess, but things don’t go as planned#2024/10/25 - 21:00#2024/10/25 - 20:00#2024/10/25 - 19:00#100#100#100#7.9
+Oldboy#Thriller#A man seeks revenge after being imprisoned for 15 years without explanation#2024/10/25 - 24:00#2024/10/25 - 23:00#2024/10/25 - 22:00#100#100#100#8.9
+Romeo Juliet#Romance#A modern retelling of the classic Shakespearean tragedy#2024/11/1 - 3:00#2024/11/1 - 2:00#2024/11/1 - 1:00#100#100#100#10
+Pretty Woman#Romance#A businessman falls in love with a kind-hearted prostitute#2024/11/1 - 6:00#2024/11/1 - 5:00#2024/11/1 - 4:00#100#100#100#9.8
+Days of Summer#Romance#The ups and downs of a relationship told in a non-linear fashion#2024/11/1 - 9:00#2024/11/1 - 8:00#2024/11/1 - 7:00#100#100#100#2.8
+A Walk To Remmber#Romance#A popular high schooler falls for a girl with a terminal illness#2024/11/1 - 12:00#2024/11/1 - 11:00#2024/11/1 - 10:00#100#100#100#7.8
+Alice in Wonderland#Fantasy#A girl falls into a bizarre world full of strange creatures#2024/11/1 - 15:00#2024/11/1 - 14:00#2024/11/1 - 13:00#100#100#100#4.8
+La La Land#Romance#A love story between an aspiring actress and a jazz musician#2024/11/1 - 18:00#2024/11/1 - 17:00#2024/11/1 - 16:00#100#100#100#8.8
+Before Sunrise#Romance#wo strangers meet on a train and spend one unforgettable night together#2024/11/1 - 21:00#2024/11/1 - 20:00#2024/11/1 - 19:00#100#100#100#8.2
